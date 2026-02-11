@@ -1,0 +1,22 @@
+{
+  "name": "taixiu-api-server",
+  "version": "1.0.0",
+  "description": "API lịch sử Tài Xỉu 50 phiên gần nhất",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "taixiu",
+    "api",
+    "express",
+    "nodejs"
+  ],
+  "author": "cskh_huydaixu",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }
+}
