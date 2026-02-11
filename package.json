@@ -13,7 +13,7 @@
     "express",
     "nodejs"
   ],
-  "author": "cskh_huydaixu",
+  "author": "duybao245",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.8",
