@@ -173,7 +173,7 @@ function formatHistoryOutput(history){
 
         Ket_qua: h.result,
 
-        id:"cskh_huydaixu"
+        id:"duybao245"
 
     }));
 
@@ -211,7 +211,7 @@ function formatPredictOutput(history){
 
         Du_doan: prediction,
 
-        id:"cskh_huydaixu"
+        id:"duybao245"
 
     }];
 
